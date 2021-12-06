@@ -1,0 +1,162 @@
+{
+  "count": null,
+  "top": null,
+  "skip": null,
+  "pageCount": null,
+  "nextPageLink": null,
+  "prevPageLink": null,
+  "response": [
+    {
+      "test": {
+        "reference": "Test 1",
+        "name": "Test 1",
+        "id": 443
+      },
+      "testForm": {
+        "reference": "Test 2",
+        "name": "Test 2",
+        "id": 518
+      },
+      "subject": {
+        "reference": "Geography",
+        "name": "Geography",
+        "id": 200
+      },
+      "passMark": 0.0,
+      "passMarkType": "Percentage",
+      "percentageMark": 31.25,
+      "passPercentage": 0.0,
+      "keycode": "test",
+      "sections": [
+        {
+          "id": 1,
+          "name": "Section",
+          "mark": 1.0,
+          "percentageMark": 33.333,
+          "availableMarks": 3,
+          "passMark": 0.0,
+          "passPercentage": 0.0,
+          "passIRTScore": null,
+          "passMarkType": "Percentage",
+          "items": [
+            {
+              "id": 101,
+              "name1": "Question 1",
+              "version": 2,
+              "mark": 1.0,
+              "awardedMark": 1.0,
+              "availableMarks": 1,
+              "surpassReference": "5199P6468",
+              "nonScored": false,
+              "type": "Question",
+			  "Question1": "What is the Capital of England",
+			  "Options1" :{
+				  "A" : "London",
+				  "B" : "Edinburgh",
+				  "C" : "Cardiff"
+			  },
+			  "correctAnswer1": "A",
+              "candidateResponse1": {
+                "Value1": ""
+              },
+              "correctlyAnswered1":""
+            },
+            {
+				"id": 102,
+              "name2": "Question 2",
+              "version": 2,
+              "mark": 0.0,
+              "awardedMark": 0.0,
+              "availableMarks": 1,
+              "viewingTime": "2000",
+              "learningOutcome": "",
+              "markBreakdown": [],
+              "unit": "",
+              "surpassReference": "5199P6451",
+              "nonScored": false,
+              "type": "Question",
+			  "Question2": "What is the capital of Italy",
+			  "Options2" :{
+				  "A" : "Paris",
+				  "B" : "Rome",
+				  "C" : "Sydney"
+			  },
+			  "correctAnswer2": "B",
+              "candidateResponse2": {
+                "Value2": ""
+              },
+              "correctlyAnswered2":""
+            },
+            {
+				"id" : 103,
+              "name3": "Question 3",
+              "version": 2,
+              "mark": 0.0,
+              "awardedMark": 0.0,
+              "availableMarks": 1,
+              "viewingTime": "2000",
+              "learningOutcome": "",
+              "markBreakdown": [],
+              "unit": "",
+              "surpassReference": "5199P6454",
+              "nonScored": false,
+              "type": "Question",
+              "Question3": "Which one of these is the correct wording for a coastal defense",
+			  "Options3" :{
+				  "A" : "Sea Wall",
+				  "B" : "Sea Net",
+				  "C" : "Moat"
+			  },
+			  "correctAnswer3": "A",
+              "candidateResponse3": {
+                "Value3": ""
+              },
+              "correctlyAnswered3":""
+            }
+          ],
+          "sectionSelectorId": null,
+          "selected": null,
+          "startTime": null,
+          "endTime": null,
+          "isPoolTimeSection": false,
+          "poolName": null,
+          "isSurveySection": false,
+          "decisionPoint": {
+            "upperValue": 0.0,
+            "lowerValue": 0.0,
+            "valueType": "Percent",
+            "sectionsToCheck": "CurrentOnly",
+            "outcome": null
+          }
+        }
+      ],
+      "centre": {
+        "id": 80,
+        "reference": "WTC"
+      },
+      "candidate": {
+        "id": 407,
+        "reference": "SAMPLE"
+      },
+      "mark": 0,
+      "availableMarks": 3,
+      "percentage": "",
+      "grade": "",
+      "startedDate": "2018-07-30 at 11:31:25.443",
+      "submittedDate": "2018-07-30 at 11:46:00",
+      "id": 1747,
+      "downloads": [
+       {
+      "os": "Microsoft Windows...",
+      "ipAddress":"82...",
+      "machineName":"BTL1...",
+      "dateTime":"17:13:27 Thu 07 Mar 2019",
+      "local": false,
+      "userName": "-1"
+      }
+      ]
+  }
+  ],
+  "errors": null,
+  "serverTimeZone": "GMT Standard Time"
+}

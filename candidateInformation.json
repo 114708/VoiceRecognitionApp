@@ -1,0 +1,35 @@
+{
+    "count": null,
+    "top": null,
+    "skip": null,
+    "pageCount": null,
+    "nextPageLink": null,
+    "prevPageLink": null,
+    "response": [
+        {
+            "id": 1,
+            "reference": "Candidate1",
+            "firstName": "John",
+            "middleName": "",
+            "lastName": "Smith",
+            "dateOfBirth": "2004-07-15",
+            "gender": "Male",
+            "email": "john.smith@surpass.com",
+            "tеl": "12345678912",
+            "centres": [
+                {
+                    "id": 1,
+                    "reference": "Centre1"
+                }
+            ],
+            "subjects": [
+                {
+                    "id": 1,
+                    "reference": "Subject1"
+                }
+            ]
+        }
+    ],
+    "errors": null,
+    "serverTimeZone": "GMT Standard Time"
+}
