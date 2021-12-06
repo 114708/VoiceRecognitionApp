@@ -8,3 +8,5 @@ And these Python libraries:
 - pyttsx3
 - pywhatkit
 - pyaudio
+
+I made this python application along with github user DominicVla and another classmate.
